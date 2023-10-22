@@ -24,7 +24,7 @@ Este projeto consiste na implementação de uma rede social baseada no Twitter, 
 ### Instruções de Uso
 1. Clone o repositório em sua máquina local.
 2. Compile e execute o programa em um ambiente compatível com C++.
-3. Siga as opções do menu para criar contas, postar tweets, seguir usuários, ver feeds e salvar dados.
+3. Siga as opções do menu para criar contas, postar tweets, seguir usuários, ver feeds, ver quem você está seguindo, ver seus seguidores e salvar dados.
 
 ### Organização do Repositório
 - `main.cpp`: Contém a implementação do programa principal.
